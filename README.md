@@ -30,7 +30,7 @@
     <artifactId>wlclient</artifactId>
     <version>1.0</version>
     <scope>system</scope>
-    <systemPath>D:\AllianzTask\Spring\wlclient.jar</systemPath>
+    <systemPath>D:\Spring\wlclient.jar</systemPath>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
