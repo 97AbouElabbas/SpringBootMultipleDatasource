@@ -37,21 +37,21 @@
     <artifactId>jrmpclient</artifactId>
     <version>1.0</version>
     <scope>system</scope>
-    <systemPath>D:\AllianzTask\Spring\jrmpclient.jar</systemPath>
+    <systemPath>D:\Spring\jrmpclient.jar</systemPath>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>weblogic</artifactId>
     <version>1.0</version>
     <scope>system</scope>
-    <systemPath>D:\AllianzTask\Spring\weblogic.jar</systemPath>
+    <systemPath>D:\Spring\weblogic.jar</systemPath>
 </dependency>
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>javax.transaction</artifactId>
     <version>1.0</version>
     <scope>system</scope>
-    <systemPath>D:\AllianzTask\Spring\javax.transaction.jar</systemPath>
+    <systemPath>D:\Spring\javax.transaction.jar</systemPath>
 </dependency>
 ````
 
